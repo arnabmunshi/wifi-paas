@@ -1,2 +1,7 @@
-# wifi-paas-hack-from-cmd
-WiFi Password Hack From CMD
+# WiFi Password Hack From CMD
+
+## How
+```
+netsh
+wlan show profile PNC key=clear
+```
