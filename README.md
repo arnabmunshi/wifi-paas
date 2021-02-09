@@ -3,5 +3,5 @@
 ## How
 ```
 netsh
-wlan show profile <WiFi Name> key=clear
+wlan show profile "<WiFi Name>" key=clear
 ```
